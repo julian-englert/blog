@@ -19,8 +19,6 @@ favorite = false
 This article shows how create a static website with Hugo on your local machine, push it to GitHub and deploy it via Netlify.
 <!--more-->
 
-Finally gotten around to setting up a static website using Hugo and hosted on Netlify. 
-
 **Steps** (all on Windows 10)
 
 Recommended tools:
