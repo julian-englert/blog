@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-# Lifespan
+## Lifespan
 Why We Age—and Why We Don't Have To
 
 https://lifespanbook.com/
@@ -37,7 +37,7 @@ Best quotes:
 
 
 
-# Juvenescence
+## Juvenescence
 
 Investing in the Age of Longevity
 
@@ -62,7 +62,7 @@ So a bridge is being built to “carry” us into another two or three decades o
 
 > No subject has intrigued us as much as this one; the science of what is commonly known as longevity. Not only do most people want to live longer, but they are going to need more economic fuel (a.k.a. savings) to keep them going as their life extends to a far-off horizon. With a market defined only by the size of the world’s population, and with the science now catching up to the aspirations of life-extensionists, this is truly the biggest money fountain we have ever seen.
 
-# Flash Boys
+## Flash Boys
 
 A Wall Street Revolt
 
@@ -89,7 +89,7 @@ Best quotes
 > The cost, in the end, is a tangled-up financial system. Untangling it requires acts of commercial heroism—and even then the fix might not work. There was simply too much more easy money to be made by elites if the system worked badly than if it worked well. The whole culture had to want to change. “We know how to cure this,” as Brad had put it. “It’s just a matter of whether the patient wants to be treated.
 
 
-# Black Edge
+## Black Edge
 
 Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street
 
@@ -117,7 +117,7 @@ Best quotes
 > The hedge fund industry created unprecedented fortunes for a new generation of Wall Street traders whose primary innovation was to find ways to make more aggressive bets in the stock market. Cohen was a pioneer, the creator of a trading empire designed to gain an edge over less sophisticated investors. Years later, after paying the largest fines in the history of financial crime—and seeing a dozen of his employees implicated in insider trading—Cohen emerged from the crisis that engulfed his company as one of the world’s wealthiest men. In the end, the evidence against him that the government spent nearly ten years assembling was never presented to a jury. All that was left was for Cohen to spend his billions and to plan for his return
 
 
-# The (Mis)Behavior of Markets
+## The (Mis)Behavior of Markets
 
 by Benoît B. Mandelbrot, Richard L. Hudson
 
@@ -141,7 +141,7 @@ Published August 3rd 2004 by Basic Books (first published September 18th 1997)
 
 
 
-# Man's Search for Meaning
+## Man's Search for Meaning
 
 by Viktor Frankl
 
@@ -166,7 +166,7 @@ Published June 1st 2006 by Beacon Press (first published 1946)
 
 
 
-# Harry Potter and the Methods of Rationality
+## Harry Potter and the Methods of Rationality
 
 https://www.hpmor.com/
 
@@ -204,7 +204,7 @@ Evil rich people charged you annual interest rates of at least 20%.
 Harry had stood up, turned away, and rested his head against the wall.
 Harry had asked if he needed the Headmaster’s permission before he could start a bank.
 
-# Nonviolent Communication
+## Nonviolent Communication
 
 A Language of Life
 
@@ -227,7 +227,7 @@ Published September 1st 2015 by PuddleDancer Press (first published 1999)
 
 
 
-# Pre-Suasion
+## Pre-Suasion
 
 A Revolutionary Way to Influence and Persuade
 
@@ -252,7 +252,7 @@ Published September 6th 2016 by Simon Schuster
 > Here’s what we’ve attempted to show: An organization that regularly approves, encourages, or allows the use of deceitful tactics in its external dealings (with customers, clients, stockholders, suppliers, distributors, regulators, and so on) will experience a nasty set of internal consequences that are akin to tumors. Not only will they become malignant—growing, spreading, and eating progressively at the organization’s health and vigor—they will be difficult to trace and identify via typical accounting methods as the true causes of inferior profitability. Thus, they might easily lead to expensive, misguided efforts that fail to target the genuine culprits of the dysfunction.
 
 
-# Start with Why
+## Start with Why
 
 How Great Leaders Inspire Everyone to Take Action
 
@@ -283,7 +283,7 @@ If the people inside a company are told to come to work and just do their job, t
 
 
 
-# The Breakthrough
+## The Breakthrough
 
 Immunotherapy and the Race to Cure Cancer
 
@@ -309,7 +309,7 @@ Published November 13th 2018 by Twelve
 > The new cancer drugs with four-syllable names are now products sold during Super Bowl ads, and, remarkably, the new Jimmy Carter drug isn’t new anymore. But the surprise, excitement, and hope surrounding that first breakthrough in cancer immunotherapy triggered a flood of new interest and funding to the field, and a multiplier effect for the pace of scientific progress. The result is what biologist E. O. Wilson has referred to as a “consilience”—an intellectual synergy that comes when specialists from very different disciplines are able to examine a common topic and find a common language to share their ideas. It’s no longer an argument between cell biologists and immunologists and virologists and oncologists; it’s a conversation. For the first time we all glimpse the whole of the cancer-immunity cycle. The blind men and women examining the elephant have suddenly gained sight and can get to work.
 
 
-# The Emperor of All Maladies
+## The Emperor of All Maladies
 
 A Biography of Cancer
 
@@ -342,7 +342,7 @@ Published November 16th 2010 by Scribner
 >“ Cancer at the fin de siècle, ” as the oncologist Harold Burstein described it, “resides at the interface between society and science.” It poses not one but two challenges. The first, the “biological challenge” of cancer, involves “harnessing the fantastic rise in scientific knowledge . . . to conquer this ancient and terrible illness.” But the second, the “social challenge,” is just as acute: it involves forcing ourselves to confront our customs, rituals, and behaviors. These, unfortunately, are not customs or behaviors that lie at the peripheries of our society or selves, but ones that lie at their definitional cores: what we eat and drink, what we produce and exude into our environments, when we choose to reproduce, and how we age.
 
 
-# Book summaries
+## Book summaries
 ![overview](/overviewm.png)
 
 I compile summaries for the books I read based on the highlights I take. You can find a guide to my workflow [**here**](https://julian-englert.netlify.app/posts/reading-guide/)
