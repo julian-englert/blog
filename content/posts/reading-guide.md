@@ -49,7 +49,7 @@ Recreate headings and insert images / figures. Re-highlight the summary to creat
 
 Josh Kaufman - The Personal MBA
 
-![[Obsidian Books in graph view.jpg]]
+![pmba](/pmba.jpg)
 
 
 [^figures]: In PlayBooks, there is no way to highlight images and figures directly. Make sure to highlight the caption (<mark>Figure 3.1: This graph shows XYZ...</mark>) if there is one, to find where to insert the missing figure later in your knowledge management system
