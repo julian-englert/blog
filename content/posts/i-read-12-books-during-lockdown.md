@@ -11,13 +11,22 @@ tags = [
 
 # Lifespan
 Why We Age—and Why We Don't Have To
+
 https://lifespanbook.com/
+
 by David A. Sinclair 
+
 432 pages
+
 Published September 10th 2019 by Atria Books
+
 [Lifespan](https://www.goodreads.com/book/show/43723901-lifespan)
-![Lifespan Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563164003l/43723901.jpg)
+
 <!--more-->
+
+
+![Lifespan Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563164003l/43723901.jpg)
+
 Best quotes:
 > We’re dying slowly and painfully. People in rich countries often spend a decade or more suffering through illness after illness at the ends of their lives. We think this is normal. As lifespans continue to increase in poorer nations, this will become the fate of billions of additional people. Our successes in extending life, the surgeon and doctor Atul Gawande has noted, have had the effect of “making mortality a medical experience.”
 
@@ -29,12 +38,19 @@ Best quotes:
 
 
 # Juvenescence
+
 Investing in the Age of Longevity
+
 https://www.juvenescence-book.com/
+
 by Jim Mellon, Al Chalabi
+
 250 pages
+
 Published October 25th 2017 by Fruitful Publications
+
 [Juvenescence](https://www.goodreads.com/book/show/36112397-juvenescence)
+
 ![Juvenescence Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503521721l/36112397._SX318_.jpg)
 
 Best quotes:
@@ -47,12 +63,19 @@ So a bridge is being built to “carry” us into another two or three decades o
 > No subject has intrigued us as much as this one; the science of what is commonly known as longevity. Not only do most people want to live longer, but they are going to need more economic fuel (a.k.a. savings) to keep them going as their life extends to a far-off horizon. With a market defined only by the size of the world’s population, and with the science now catching up to the aspirations of life-extensionists, this is truly the biggest money fountain we have ever seen.
 
 # Flash Boys
+
 A Wall Street Revolt
+
 http://www.michaellewiswrites.com/index.html#flash-boys
+
 by Michael Lewis
+
 304 pages
+
 Published March 23rd 2015 by W. W. Norton Company (first published March 31st 2014)
+
 [Flash Boys](https://www.goodreads.com/book/show/24724602-flash-boys)
+
 ![Flash Boys Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426093936l/24724602.jpg)
 
 Best quotes
@@ -67,12 +90,19 @@ Best quotes
 
 
 # Black Edge
+
 Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street
+
 https://www.sheelahkolhatkar.com/
+
 by Sheelah Kolhatkar
+
 295 pages
+
 Published February 7th 2017 by Random House
+
 [Black Edge](https://www.goodreads.com/book/show/32284263-black-edge)
+
 ![Black Edge Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SY475_.jpg)
 
 Best quotes
@@ -88,11 +118,17 @@ Best quotes
 
 
 # The (Mis)Behavior of Markets
+
 by Benoît B. Mandelbrot, Richard L. Hudson
+
 352 pages
+
 Published August 3rd 2004 by Basic Books (first published September 18th 1997)
+
 [The (Mis)Behavior of Markets](https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets)
+
 ![The (Mis)Behavior of Markets Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519l/665134.jpg)
+
 
 > Markowitz pondered: How to translate those two concepts, risk and reward, into equations you can work with? Well, your hoped-for profit—the expected return—depends on what you think the stock price most likely will be when it comes time to sell. “Most likely,” if you go back to the familiar bell curve, would mean the average, or mean, of all the prices you expect it might hit before you sell. Risk is more difficult to define. Perhaps, he thought, risk depends on how much the stock price swings up or down around the mean—or, to put it another way, the odds that you guessed wrong about the final price. Again, back to the bell curve: The most common measures of volatility are called variance and standard deviation; the latter is just the square root of the former.
 
@@ -106,10 +142,15 @@ Published August 3rd 2004 by Basic Books (first published September 18th 1997)
 
 
 # Man's Search for Meaning
+
 by Viktor Frankl
+
 165 pages
+
 Published June 1st 2006 by Beacon Press (first published 1946)
+
 [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
 ![Man's Search for Meaning Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg)
 
 > On the average, only those prisoners could keep alive who, after years of trekking from camp to camp, had lost all scruples in their fight for existence; they were prepared to use every means, honest and otherwise, even brutal force, theft, and betrayal of their friends, in order to save themselves. We who have come back, by the aid of many lucky chances or miracles—whatever one may choose to call them—we know: the best of us did not return.
@@ -126,11 +167,17 @@ Published June 1st 2006 by Beacon Press (first published 1946)
 
 
 # Harry Potter and the Methods of Rationality
+
 https://www.hpmor.com/
+
 by Eliezer Yudkowsky
+
 2184 pages
+
 Published March 14th 2015 by hpmor.com & fanfiction.net
+
 [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality)
+
 ![Harry Potter and the Methods of Rationality Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293582551l/10016013.jpg)
 
 > “You turned into a cat! A SMALL cat! You violated Conservation of Energy! That’s not just an arbitrary rule, it’s implied by the form of the quantum Hamiltonian! Rejecting it destroys unitarity and then you get FTL signalling! And cats are COMPLICATED! A human mind can’t just visualise a whole cat’s anatomy and, and all the cat biochemistry, and what about the neurology? How can you go on thinking using a cat-sized brain?”
@@ -158,12 +205,19 @@ Harry had stood up, turned away, and rested his head against the wall.
 Harry had asked if he needed the Headmaster’s permission before he could start a bank.
 
 # Nonviolent Communication
+
 A Language of Life
+
 https://www.nonviolentcommunication.com/
+
 by Marshall Rosenberg
+
 3rd Edition, 264 pages
+
 Published September 1st 2015 by PuddleDancer Press (first published 1999)
+
 [Nonviolent Communication](https://www.goodreads.com/book/show/25073935-nonviolent-communication)
+
 ![Nonviolent Communication Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611613l/25073935.jpg)
 
 > NVC is founded on language and communication skills that strengthen our ability to remain human, even under trying conditions. It contains nothing new; all that has been integrated into NVC has been known for centuries. The intent is to remind us about what we already know—about how we humans were meant to relate to one another—and to assist us in living in a way that concretely manifests this knowledge
@@ -174,12 +228,19 @@ Published September 1st 2015 by PuddleDancer Press (first published 1999)
 
 
 # Pre-Suasion
+
 A Revolutionary Way to Influence and Persuade
+
 https://www.influenceatwork.com/books/pre-suasion/
+
 by Robert Cialdini
+
 432 pages
+
 Published September 6th 2016 by Simon Schuster
+
 [Pre-Suasion](https://www.goodreads.com/book/show/29238799-pre-suasion)
+
 ![Pre-Suasion Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468786982l/29238799.jpg)
 
 > The implication for effective pre-suasion is plain: pre-suasive openers can produce dramatic, immediate shifts in people, but to turn those shifts into durable changes, it’s necessary to get commitments to them, usually in the form of related behavior. Not all commitments are equal in this respect, however. The most effective commitments reach into the future by incorporating behaviors that affect one’s personal identity. They do so by ensuring that the commitment is undertaken in an active, effortful, and voluntary fashion, because each of these elements communicates deep personal preferences
@@ -192,13 +253,21 @@ Published September 6th 2016 by Simon Schuster
 
 
 # Start with Why
+
 How Great Leaders Inspire Everyone to Take Action
+
 https://simonsinek.com/product/start-with-why/
+
 by Simon Sinek
+
 256 pages
+
 Published October 29th, 2009 by Portfolio
+
 [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why)
+
 ![Start with Why Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360936414l/7108725.jpg)
+
 
 > When we communicate from the outside in, when we communicate WHAT we do first, yes, people can understand vast amounts of complicated information, like facts and features, but it does not drive behavior. But when we communicate from the inside out, we’re talking directly to the part of the brain that controls decision-making, and our language part of the brain allows us to rationalize those decisions.
 
@@ -215,12 +284,20 @@ If the people inside a company are told to come to work and just do their job, t
 
 
 # The Breakthrough
+
 Immunotherapy and the Race to Cure Cancer
+
 https://www.charlesgraeber.com/
+
+
 by Charles Graeber
+
 320 pages
+
 Published November 13th 2018 by Twelve
+
 [The Breakthrough](https://www.goodreads.com/book/show/39088907-the-breakthrough)
+
 ![The Breakthrough Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536828428l/39088907.jpg)
 
 > Cancer is alive. It’s a normal cell, mutated and changed, and it continues to change in the body. Unfortunately, a cancer drug doesn’t change with time, but whatever cancer cells remain will continue to mutate. It only takes one. The drug dances with cancer, but cancer dances away. As a result, these types of drugs are unlikely to ever truly cure cancer. But we have killers in our bodies, and scouts and soldiers, a dynamic network of cells more nimble than any cancer. This is our immune system, a living defense as old as life itself. This system mutates. It !adapts. It learns and remembers and matches an innovating disease step for step. It’s our best tool to cure cancer. And we have finally discovered how to unleash it. This is the breakthrough.
@@ -233,12 +310,19 @@ Published November 13th 2018 by Twelve
 
 
 # The Emperor of All Maladies
+
 A Biography of Cancer
+
 http://siddharthamukherjee.com/
+
 by Siddhartha Mukherjee
+
 571 pages
+
 Published November 16th 2010 by Scribner
+
 [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)
+
 ![The Emperor of All Maladies Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280771091l/7170627.jpg)
 
 > This image—of cancer as our desperate, malevolent, contemporary doppelgänger—is so haunting because it is at least partly true. A cancer cell is an astonishing perversion of the normal cell. Cancer is a phenomenally successful invader and colonizer in part because it exploits the very features that make us successful as a species or as an organism.
