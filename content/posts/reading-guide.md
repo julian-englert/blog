@@ -29,7 +29,7 @@ This post shows how a build a reading workflow that allows you to extract summar
 - while reading, highlight parts, chapters (and subchapters if meaningful) as well as text excerpts[^figures] 
 - highlights get compiled into a Google Doc that gets saved to your Drive under *PlayBook Notes*
 
-![g1](/g1.PNG)
+![g1](static/g1.PNG)
 ### Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1YOfi97SG_1fO2iHFupG5doP2xRNiWXZN)
 Copy file ID from Google Document 
 ![g2](/g2.PNG)
