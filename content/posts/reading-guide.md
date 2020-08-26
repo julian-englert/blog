@@ -2,7 +2,7 @@
 author = "Julian Englert"
 title = "Reading Workflow (Draft) "
 date = "2020-08-26"
-description = "How to read a book and never forget it's contents"
+description = "How to read a book and never forget its contents"
 tags = [
     "guide",
     "Python",
@@ -12,32 +12,39 @@ tags = [
 This post shows how to build a reading workflow that allows you to extract summaries from books you've read to further work with the ideas in them. 
 <!--more-->
 
-### Steps
+# Goal
+Be able to read any book digitally and process its most important ideas to never forget them
+
+![overviewm](/overviewm.png)
+
+# Steps
 1. Create a personal library of epubs
 2. Read epubs on mobile devices
 3. Take highlights while reading to construct a summary of the book
 4. Import highlights into knowledge management system
 5. Work with the summarized books and connect ideas
 
-### Import epubs into [Calibre](https://calibre-ebook.com/)
+# Step by Step
+
+## Import epubs into [Calibre](https://calibre-ebook.com/)
 - set library path to local machine or cloud drive
 - Calibre can download cover, metadata, abstract etc for book
 - epub will be saved in library in standardized folder-file format
 
-### Upload epub to [PlayBooks](https://play.google.com/books) for reading
+## Upload epub to [PlayBooks](https://play.google.com/books) for reading
 - in the mobile app in *Settings* -> *Google Drive sync* toggle *Save your notes, highlights and bookmarks* (enables it for mobile app and web app)
 - while reading, highlight parts, chapters (and subchapters if meaningful) as well as text excerpts[^figures] 
 - highlights get compiled into a Google Doc that gets saved to your Drive under *PlayBook Notes*
 
 ![g1](/g1.PNG)
-### Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1YOfi97SG_1fO2iHFupG5doP2xRNiWXZN)
+## Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1YOfi97SG_1fO2iHFupG5doP2xRNiWXZN)
 Copy file ID from Google Document 
 ![g2](/g2.PNG)
 
 Run the script with your file ID to get extracted text file 
 ![g3](/g3.PNG)
 
-### Import into note-taking / knowledge management (here shown using [Obsidian](https://obsidian.md))
+## Import into note-taking / knowledge management (here shown using [Obsidian](https://obsidian.md))
 
 Paste raw text  
 ![o1](/o1.PNG)
@@ -48,7 +55,7 @@ Recreate headings and insert images / figures. Re-highlight the summary to creat
 ![o2m](/o2m.png)
 ![o3m](/o3m.png)
 
-### Example of an interconnected book
+## Example of an interconnected book
 
 Josh Kaufman - The Personal MBA
 
