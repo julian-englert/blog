@@ -29,21 +29,21 @@ tags = [
 ![g1](/g1.PNG)
 ### Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1YOfi97SG_1fO2iHFupG5doP2xRNiWXZN)
 Copy file ID from Google Document 
-![](/g2.PNG)
+![g2](/g2.PNG)
 
 Run the script with your file ID to get extracted text file 
-![[g3.PNG]]
+![g3](/g3.PNG)
 
 ### Import into note-taking / knowledge management (here shown using [Obsidian](https://obsidian.md))
 
 Paste raw text  
-![[o1.PNG]]
+![o1](/o1.PNG)
 
 
 Recreate headings and insert images / figures. Re-highlight the summary to create an even more condensed version for fast re-reading. Optionally, write some metadata 
 
-![[o2m.png]]
-![[o3m.png]]
+![o2m](/o2m.png)
+![o3m](/o3m.png)
 
 ### Example of an interconnected book
 
@@ -52,4 +52,4 @@ Josh Kaufman - The Personal MBA
 ![[Obsidian Books in graph view.jpg]]
 
 
-[^figures]: In PlayBooks, there is no way to highlight images and figures directly. Make sure to highlight the caption (==*Figure 3.1: This graph shows XYZ...*==) if there is one, to find where to insert the missing figure later in your knowledge management system
+[^figures]: In PlayBooks, there is no way to highlight images and figures directly. Make sure to highlight the caption (<mark>Figure 3.1: This graph shows XYZ...</mark>) if there is one, to find where to insert the missing figure later in your knowledge management system
