@@ -9,6 +9,9 @@ tags = [
 ]
 +++
 
+This post shows how a reading workflow that allows you to extract summaries from books you've read to further work with the ideas 
+<!--more-->
+
 ### Steps
 1. Create a personal library of epubs
 2. Read epubs on mobile devices
