@@ -20,7 +20,7 @@ by David A. Sinclair
 
 Published September 10th 2019 by Atria Books
 
-[Lifespan](https://www.goodreads.com/book/show/43723901-lifespan)
+[Lifespan on Goodreads](https://www.goodreads.com/book/show/43723901-lifespan)
 
 <!--more-->
 
@@ -49,7 +49,7 @@ by Jim Mellon, Al Chalabi
 
 Published October 25th 2017 by Fruitful Publications
 
-[Juvenescence](https://www.goodreads.com/book/show/36112397-juvenescence)
+[Juvenescence on Goodreads](https://www.goodreads.com/book/show/36112397-juvenescence)
 
 ![Juvenescence Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503521721l/36112397._SX318_.jpg)
 
@@ -74,7 +74,7 @@ by Michael Lewis
 
 Published March 23rd 2015 by W. W. Norton Company (first published March 31st 2014)
 
-[Flash Boys](https://www.goodreads.com/book/show/24724602-flash-boys)
+[Flash Boys on Goodreads](https://www.goodreads.com/book/show/24724602-flash-boys)
 
 ![Flash Boys Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426093936l/24724602.jpg)
 
@@ -101,7 +101,7 @@ by Sheelah Kolhatkar
 
 Published February 7th 2017 by Random House
 
-[Black Edge](https://www.goodreads.com/book/show/32284263-black-edge)
+[Black Edge on Goodreads](https://www.goodreads.com/book/show/32284263-black-edge)
 
 ![Black Edge Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484051685l/32284263._SY475_.jpg)
 
@@ -125,7 +125,7 @@ by Benoît B. Mandelbrot, Richard L. Hudson
 
 Published August 3rd 2004 by Basic Books (first published September 18th 1997)
 
-[The (Mis)Behavior of Markets](https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets)
+[The (Mis)Behavior of Markets on Goodreads](https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets)
 
 ![The (Mis)Behavior of Markets Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519l/665134.jpg)
 
@@ -149,7 +149,7 @@ by Viktor Frankl
 
 Published June 1st 2006 by Beacon Press (first published 1946)
 
-[Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+[Man's Search for Meaning on Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
 ![Man's Search for Meaning Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg)
 
@@ -176,7 +176,7 @@ by Eliezer Yudkowsky
 
 Published March 14th 2015 by hpmor.com & fanfiction.net
 
-[Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality)
+[Harry Potter and the Methods of Rationality on Goodreads](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality)
 
 ![Harry Potter and the Methods of Rationality Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293582551l/10016013.jpg)
 
@@ -216,7 +216,7 @@ by Marshall Rosenberg
 
 Published September 1st 2015 by PuddleDancer Press (first published 1999)
 
-[Nonviolent Communication](https://www.goodreads.com/book/show/25073935-nonviolent-communication)
+[Nonviolent Communication on Goodreads](https://www.goodreads.com/book/show/25073935-nonviolent-communication)
 
 ![Nonviolent Communication Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611613l/25073935.jpg)
 
@@ -239,7 +239,7 @@ by Robert Cialdini
 
 Published September 6th 2016 by Simon Schuster
 
-[Pre-Suasion](https://www.goodreads.com/book/show/29238799-pre-suasion)
+[Pre-Suasion on Goodreads](https://www.goodreads.com/book/show/29238799-pre-suasion)
 
 ![Pre-Suasion Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468786982l/29238799.jpg)
 
@@ -264,7 +264,7 @@ by Simon Sinek
 
 Published October 29th, 2009 by Portfolio
 
-[Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why)
+[Start with Why on Goodreads](https://www.goodreads.com/book/show/7108725-start-with-why)
 
 ![Start with Why Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360936414l/7108725.jpg)
 
@@ -296,7 +296,7 @@ by Charles Graeber
 
 Published November 13th 2018 by Twelve
 
-[The Breakthrough](https://www.goodreads.com/book/show/39088907-the-breakthrough)
+[The Breakthrough on Goodreads](https://www.goodreads.com/book/show/39088907-the-breakthrough)
 
 ![The Breakthrough Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536828428l/39088907.jpg)
 
@@ -321,7 +321,7 @@ by Siddhartha Mukherjee
 
 Published November 16th 2010 by Scribner
 
-[The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)
+[The Emperor of All Maladies on Goodreads](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)
 
 ![The Emperor of All Maladies Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280771091l/7170627.jpg)
 
