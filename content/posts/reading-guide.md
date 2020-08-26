@@ -1,6 +1,6 @@
 +++
 author = "Julian Englert"
-title = "Reading Workflow (Draft) "
+title = "Reading Workflow"
 date = "2020-08-26"
 description = "How to read a book and never forget its contents"
 tags = [
