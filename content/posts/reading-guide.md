@@ -26,7 +26,7 @@ tags = [
 - while reading, highlight parts, chapters (and subchapters if meaningful) as well as text excerpts[^figures] 
 - highlights get compiled into a Google Doc that gets saved to your Drive under *PlayBook Notes*
 
-![image](g1.PNG)
+![image](/g1.PNG)
 ### Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1YOfi97SG_1fO2iHFupG5doP2xRNiWXZN)
 Copy file ID from Google Document 
 ![](g2.PNG)
@@ -42,8 +42,8 @@ Paste raw text
 
 Recreate headings and insert images / figures. Re-highlight the summary to create an even more condensed version for fast re-reading. Optionally, write some metadata 
 
-![[o2m.PNG]]
-![[o3m.PNG]]
+![[o2m.png]]
+![[o3m.png]]
 
 ### Example of an interconnected book
 
