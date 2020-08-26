@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-This post shows how a reading workflow that allows you to extract summaries from books you've read to further work with the ideas 
+This post shows how a build a reading workflow that allows you to extract summaries from books you've read to further work with the ideas in them. 
 <!--more-->
 
 ### Steps
