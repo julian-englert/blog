@@ -37,7 +37,7 @@ Be able to read any book digitally and process its most important ideas to never
 - highlights get compiled into a Google Doc that gets saved to your Drive under *PlayBook Notes*
 
 ![g1](/g1.PNG)
-## Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1MR7qfFNtW-3dyZN1GRGp5Sf4I5kbaBw5?usp=sharing)
+## Clean up highlights with this [Google Colab Python script](https://colab.research.google.com/drive/1J11DJ6Bu1wRODx-XJs194aoRW3FIyO7z?usp=sharing)
 Copy file ID from Google Document 
 ![g2](/g2.PNG)
 
