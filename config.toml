@@ -38,6 +38,12 @@ googleAnalytics = ""
     url = "/about/"
     weight = 3
 
+  [[menu.main]]
+    identifier = "comment"
+    name = "Comment"
+    url = "/contact"
+    weight = 4
+
 
 [taxonomies]
 category = "categories"

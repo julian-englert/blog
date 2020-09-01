@@ -1,9 +1,12 @@
 ---
-title: "Comment"
-description: "Comment"
-date: "2022-02-28"
-aliases: ""
-author: "Author"
+title: "About"
+description: "About"
+date: "2019-02-28"
+aliases:
+  - "about-us"
+  - "about-hugo"
+  - "contact"
+author: "Hugo Authors"
 ---
 
 Work in progress
