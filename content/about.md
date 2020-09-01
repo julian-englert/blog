@@ -4,6 +4,7 @@ description: "About"
 date: "2022-02-28"
 aliases: 
   - "about-us"
+  - "about-hugo"
 author: "Author"
 ---
 
