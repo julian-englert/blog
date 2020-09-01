@@ -44,6 +44,11 @@ googleAnalytics = ""
     url = "/contact"
     weight = 4
 
+[params.staticman]
+    endpoint = "https://hugo-staticman-comments.herokuapp.com/v2/entry"
+    username = "julian-englert"
+    repository = "blog"
+    branch = "master"
 
 [taxonomies]
 category = "categories"
