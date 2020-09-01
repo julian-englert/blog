@@ -2,7 +2,8 @@
 title: "About"
 description: "About"
 date: "2022-02-28"
-aliases: ""
+aliases: 
+  - "about-us"
 author: "Author"
 ---
 
