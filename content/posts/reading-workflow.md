@@ -5,8 +5,8 @@ date = "2020-08-26"
 description = "How to read a book and never forget its contents"
 tags = [
     "guide",
-    "Python"
-    "Obsidian"
+    "Python",
+    "Obsidian",
     "reading",
 ]
 +++
