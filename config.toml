@@ -38,12 +38,6 @@ googleAnalytics = ""
     url = "/about/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "comment"
-    name = "Comment"
-    url = "/contact"
-    weight = 4
-
 [params.staticman]
     endpoint = "https://hugo-staticman-comments.herokuapp.com/v2/entry"
     username = "julian-englert"
