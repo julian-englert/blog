@@ -6,7 +6,7 @@ description = "Process information, plan & execute tasks during the day, and kee
 tags = [
     "guide",
     "Obsidian"
-    "note taking"
+    "notetaking"
     "productivity",
 ]
 +++
