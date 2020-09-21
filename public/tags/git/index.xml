@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on JU EN</title>
+    <link>https://julian-englert.netlify.app/tags/git/</link>
+    <description>JU EN (Git)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://julian-englert.netlify.app/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Guide</title>
+      <link>https://julian-englert.netlify.app/posts/hugo-guide/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://julian-englert.netlify.app/posts/hugo-guide/</guid>
+      <description>&lt;p&gt;This article shows how create a static website with Hugo on your local machine, push it to GitHub and deploy it via Netlify.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Steps&lt;/strong&gt; (all on Windows 10)&lt;/p&gt;
+&lt;p&gt;Recommended tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sublime Text (&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;https://www.sublimetext.com/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;PowerToys for Markdown preview in Windows Explorer (&lt;a href=&#34;https://github.com/microsoft/PowerToys&#34;&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Install Chocolatey using PowerShell (open as admin) (&lt;a href=&#34;https://chocolatey.org/install&#34;&gt;https://chocolatey.org/install&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Install Hugo via Chocolatey still using PowerShell (&lt;a href=&#34;https://gohugo.io/getting-started/installing/#chocolatey-windows&#34;&gt;https://gohugo.io/getting-started/installing/#chocolatey-windows&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Install Git via Chocolatey (&lt;a href=&#34;https://chocolatey.org/packages/git&#34;&gt;https://chocolatey.org/packages/git&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Use terminal commands (&lt;a href=&#34;https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/&#34;&gt;https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/&lt;/a&gt;) to navigate to directory for new test site (doesn&amp;rsquo;t really matter where, just so you can find it in the file explorer again)&lt;/p&gt;
+&lt;p&gt;Follow Hugo Quick Start Guide (&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site&#34;&gt;https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site&lt;/a&gt;) using a theme of your choice&lt;/p&gt;
+&lt;p&gt;If you get an error along the lines of &amp;ldquo;bare keys cannot contain &amp;lsquo;\x00&amp;rsquo;&amp;rdquo;, open the &lt;em&gt;config.toml&lt;/em&gt; using a text editor and fix the line that is supposed to say &lt;code&gt;theme = &amp;quot;theme_of_your_choice&amp;quot;&lt;/code&gt;. If the file contains lots of &lt;code&gt;3a2f 2f6a 756c 6961 6e2d 656e 676c 6572&lt;/code&gt; or similar, it&amp;rsquo;s hexadecimal and you have to reopen with UTF encoding.&lt;/p&gt;
+&lt;p&gt;Use the file explorer to move some of the &lt;em&gt;exampleSite&lt;/em&gt; content into your actual website directory and play in &lt;em&gt;config.toml&lt;/em&gt; with the parameters (website title, categories, date format etc) to get a better feel for how things work&lt;/p&gt;
+&lt;p&gt;Create a new GitHub repository in your web browser&lt;/p&gt;
+&lt;p&gt;Use the Git Bash command line to push the local website directory to GitHub (&lt;a href=&#34;https://www.youtube.com/watch?v=ibNqauPoicg&#34;&gt;https://www.youtube.com/watch?v=ibNqauPoicg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Use Netlify (&lt;a href=&#34;https://www.netlify.com/&#34;&gt;https://www.netlify.com/&lt;/a&gt;) to connect to your GitHub account, select the repository with the website and deploy it&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
