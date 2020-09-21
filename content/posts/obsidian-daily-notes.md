@@ -5,8 +5,8 @@ date = "2020-09-21"
 description = "Process information, plan & execute tasks during the day, and keep track of content and recommendations"
 tags = [
     "guide",
-    "Obsidian"
-    "notetaking"
+    "Obsidian",
+    "notetaking",
     "productivity",
 ]
 +++
